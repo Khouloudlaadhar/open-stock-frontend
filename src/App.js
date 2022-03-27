@@ -1,8 +1,12 @@
+import { Button } from "react-bootstrap";
 
 
 function App() {
   return (
-    <div>APP</div>
+    <div>
+      <h1>APP</h1>
+      <Button>OK</Button>
+    </div>
   );
 }
 
